@@ -1,0 +1,10 @@
+/Users/uk/Documents/Lottery/src/main/java/com/poppulo/lottery/model/Ticket.java
+/Users/uk/Documents/Lottery/src/main/java/com/poppulo/lottery/exception/TicketNotFoundException.java
+/Users/uk/Documents/Lottery/src/main/java/com/poppulo/lottery/dto/TicketRequest.java
+/Users/uk/Documents/Lottery/src/main/java/com/poppulo/lottery/config/SwaggerConfig.java
+/Users/uk/Documents/Lottery/src/main/java/com/poppulo/lottery/LotterySystemApplication.java
+/Users/uk/Documents/Lottery/src/main/java/com/poppulo/lottery/controller/TicketController.java
+/Users/uk/Documents/Lottery/src/main/java/com/poppulo/lottery/repository/TicketRepository.java
+/Users/uk/Documents/Lottery/src/main/java/com/poppulo/lottery/service/TicketService.java
+/Users/uk/Documents/Lottery/src/main/java/com/poppulo/lottery/exception/TicketModificationException.java
+/Users/uk/Documents/Lottery/src/main/java/com/poppulo/lottery/exception/GlobalExceptionHandler.java

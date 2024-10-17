@@ -1,0 +1,10 @@
+com/poppulo/lottery/exception/TicketNotFoundException.class
+com/poppulo/lottery/LotterySystemApplication.class
+com/poppulo/lottery/dto/TicketRequest.class
+com/poppulo/lottery/exception/TicketModificationException.class
+com/poppulo/lottery/model/Ticket.class
+com/poppulo/lottery/service/TicketService.class
+com/poppulo/lottery/config/SwaggerConfig.class
+com/poppulo/lottery/repository/TicketRepository.class
+com/poppulo/lottery/controller/TicketController.class
+com/poppulo/lottery/exception/GlobalExceptionHandler.class
